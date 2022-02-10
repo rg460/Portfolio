@@ -7,7 +7,7 @@ function Header(){
     return(
         <div className="header">
              
-             <RiMenu3Fill />
+             <RiMenu3Fill className='position-fixed  top-0 end-0' />
 
         </div>
     )
