@@ -15,6 +15,7 @@
     background-color: rgba(46, 45, 45, 0.434); 
     height: 65vh;
     width: 50%;
+    border-bottom-left-radius: 50%;
 }
 .hide-header{
     display: flex;
