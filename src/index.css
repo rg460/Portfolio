@@ -25,3 +25,8 @@ code {
 .font-bold{
   font-weight:bold;
 }
+.n-box1{
+background: linear-gradient(145deg, #292929, #303030);
+box-shadow:  5px 5px 0px #12121235,
+             -5px -5px 0px #484848;
+}

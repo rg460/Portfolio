@@ -24,7 +24,7 @@ function Header() {
         />
       )}
       {/* if showHeader is true then go apply show-header class if false apply hide-header class */}
-      <ul className={`${showHeader ? "show-header" : "hide-header"}`}> 
+      <ul className={`${showHeader ? "show-header" : "hide-header"} n-box1`}> 
         <li>
           <Link to="/">Home</Link>
         </li>
