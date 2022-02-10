@@ -7,7 +7,8 @@ import './App.css';
 import Home from './pages/Home';
 import Projects from './pages/Projects';
 import Contact from './pages/Contact';
-import './stylesheets/home.css'
+import './stylesheets/home.css';
+import './stylesheets/header-footer.css';
 function App() {
   return (
     <div className="App">
