@@ -28,7 +28,7 @@
     border: none;
 }
 .primary-button:hover{
-    background-color: rgb(11, 199, 11);
+    background-color: rgb(25,228,111);
     color: #fff;
     transition: 0.7s ease-in;
     -webkit-transition: 0.7s ease-in;

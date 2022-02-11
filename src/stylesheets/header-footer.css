@@ -12,10 +12,15 @@
     justify-content: center;
     top: 0;
     right: 0;
-    background-color: rgba(46, 45, 45, 0.434); 
+    background-color: rgba(46, 45, 45, 0.434);
     height: 65vh;
     width: 50%;
     border-bottom-left-radius: 50%;
+    transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
 }
 .hide-header{
     display: flex;
@@ -28,11 +33,16 @@
     width: 0;
 }      
 .show-header li {
-    color: white;
+    color: rgb(25,228,111);
     list-style: none;
     margin-top: 25px;
+    transition: all 0.5s;
+    -webkit-transition: all 0.7s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
 }
 .show-header a{
-    color: white;
+    color:rgb(25,228,111);
     text-decoration: none;
 }
