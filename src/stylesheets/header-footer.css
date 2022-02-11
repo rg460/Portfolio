@@ -49,6 +49,14 @@
     color:rgb(25,228,111);
     text-decoration: none;
 }
+.active{
+   border: 2px solid white;
+    color: white;
+    font-weight: bold;
+}
+.active a{
+    color: white;
+}
 @media (max-width: 500px){
     .show-header {
         color: white;
