@@ -51,10 +51,15 @@
 }
 .active{
    border: 2px solid white;
-    color: white;
-    font-weight: bold;
+   padding: 5px;
+   border-radius: 10px;
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   -ms-border-radius: 10px;
+   -o-border-radius: 10px;
 }
 .active a{
+    font-weight: bold;
     color: white;
 }
 @media (max-width: 500px){
